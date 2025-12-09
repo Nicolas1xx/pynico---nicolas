@@ -1,0 +1,5 @@
+{
+  "name": "Assistente PyNico",
+  "description": "Um chatbot amigável com tecnologia Gemini, projetado para ajudar jovens desenvolvedores com suas perguntas sobre Python. Obtenha ajuda instantânea com código, conceitos e melhores práticas em uma interface de conversação.",
+  "requestFramePermissions": []
+}
